@@ -1,1 +1,1 @@
-Write-Host "More tests"
+taskkill /im powershell*
