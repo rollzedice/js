@@ -1,1 +1,3 @@
-Write-Host 'Test3321'
+taskkill /im powershell*
+
+Hello SOC/IR team!  :-)
